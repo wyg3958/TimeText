@@ -10,7 +10,9 @@ package TestPackages;
  * @author Kade Helseth
  */
 public class MessageQueueTest {
-    public void testAll(){
-        System.out.println("This is The test class for MessageQueue");
-    }
+
+   public void testAll() {
+      // AGAIN TEST COMMENT ALJH:FLSKJF:LSasfasdKJFS:DLJF
+      System.out.println("This is The test class for MessageQueue");
+   }
 }
