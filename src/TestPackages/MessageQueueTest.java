@@ -11,8 +11,13 @@ package TestPackages;
  */
 public class MessageQueueTest {
 
+   public MessageQueueTest() {
+      testAll();
+   }
+
    public void testAll() {
-      // AGAIN TEST COMMENT ALJH:FLSKJF:LSasfasdKJFS:DLJF
+
       System.out.println("This is The test class for MessageQueue");
+
    }
 }
